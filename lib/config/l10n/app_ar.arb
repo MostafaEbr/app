@@ -1,0 +1,28 @@
+{
+    "home": "الرئيسية",
+    "search": "بحث",
+    "from": "من",
+    "to": "إلى",
+    "date": "التاريخ",
+    "travellers": "المسافرون",
+
+    "classTravel": "الدرجة",
+    "searchFlight": "البحث عن رحلات",
+    "roundedTrip": "رحلة ذهاب وعودة",
+    "bookingYourFlight": "احجز رحلتك",
+    "multiCity": "مدن متعددة",
+    "oneWay": "رحلة ذهاب",
+    "adults": "البالغون",
+
+    "selectAirport":"اختر المطار",
+    "children": "الأطفال",
+    "selectPassengers": "اختر الركاب",
+    "searchResult": "نتائج البحث",
+    "flightsAvailable": "الرحلات المتاحة",
+
+    "viewMore": "عرض المزيد",
+    "depart": "المغادرة",
+    "arrive": "الوصول",
+    "h": "س",
+    "m": "د"
+}

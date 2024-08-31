@@ -1,0 +1,27 @@
+{
+        "home": "Home",
+        "search": "Search",
+        "from": "From",
+        "to": "To",
+        "date": "Date",
+        "travellers": "Travellers",
+
+        "classTravel": "Class",
+        "searchFlight": "Search Flights",
+        "roundedTrip":"Rounded Trip",
+        "bookingYourFlight": "Booking Your\nFlight",
+        "multiCity": "Multi City",
+        "oneWay": "One Way",
+        "adults":"Adults",
+        "children":"Children",
+        "selectAirport":"Select airport",
+        "selectPassengers":"Select passengers",
+        "searchResult":"Search Result",
+        "flightsAvailable":"Flights Available",
+        "viewMore":"View More",
+        "depart":"Depart",
+        "arrive":"Arrive",
+        "h":"H",
+        "m":"M"
+
+}
